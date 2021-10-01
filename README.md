@@ -1,2 +1,2 @@
 # git_android
-it's my first git xianmu
+it's my first git android project
