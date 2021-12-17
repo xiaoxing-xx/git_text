@@ -1,0 +1,5 @@
+119.91.224.73
+https://api.fghrsh.net
+usesCleartextTraffic=true；
+
+   
